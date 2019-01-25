@@ -1,0 +1,3 @@
+# PhysicsModelSupportTest
+PhysicsModelSupportTest: include Spring-Mass model and continue....
+用到的库glm0.9.9，但没有包含在远程库，可以用NutGet来下载
